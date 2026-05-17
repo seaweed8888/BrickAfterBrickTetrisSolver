@@ -1,3 +1,3 @@
 # BrickAfterBrickTetrisSolver
-Tetris bot to win the Jordan 4s using NN and a HIRL mode
+Issue with sever side session time limit. could not beat the high score so didnt work
 
